@@ -1,8 +1,14 @@
+.header {
+    margin: auto;
+    text-align: center;
+}
+
 ul{
-    display: flex;
+    display: block;
 }
 
 li {
     display: inline-block;
     text-decoration: none;
+    /*margin: 0 5px 0 5px;*/
 }
