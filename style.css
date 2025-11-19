@@ -1,6 +1,9 @@
 .header {
     margin: auto;
     text-align: center;
+    background-image: linear-gradient(to right, magenta, black);
+    border-radius: 20px;
+    padding: 10px 0 10px 0;
 }
 
 ul{
