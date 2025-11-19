@@ -1,0 +1,8 @@
+ul{
+    display: flex;
+}
+
+li {
+    display: inline-block;
+    text-decoration: none;
+}
